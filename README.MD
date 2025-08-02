@@ -12,6 +12,8 @@ The simulation follows the classic rules of Rock, Paper, Scissors:
 
 When two entities from different teams touch, one will convert the other to its team based on these rules. The simulation ends when only one team remains.
 
+<img src="https://i.imgur.com/sMiFOSc.jpeg"></img>
+
 ## How to Run
 
 To run the simulation, you'll need to have Rust and Cargo installed. Then, simply clone the repository and run the following command in the project directory:
